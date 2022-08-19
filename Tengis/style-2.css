@@ -1,0 +1,103 @@
+.background {
+  position: relative;
+  width: 100vw;
+  height: 60vw;
+  background: #08b7ac;
+}
+.ehlel {
+  position: absolute;
+  left: 27.8%;
+  right: 27.87%;
+  top: 8.58%;
+  bottom: 84.8%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 51.3611px;
+  line-height: 78px;
+  text-align: center;
+  color: #ffffff;
+}
+.gol {
+  position: absolute;
+  left: 28.19%;
+  right: 28.2%;
+  top: 21.39%;
+  bottom: 71.38%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: center;
+  color: #ffffff;
+}
+.skillimg {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.htmllogo {
+  position: absolute;
+  width: 120px;
+  height: 150px;
+  left: 130px;
+  top: 398px;
+  margin-left: 160px;
+}
+.csslogo {
+  position: absolute;
+  width: 120px;
+  height: 150px;
+  left: 500px;
+  top: 395px;
+  margin-left: 150px;
+}
+.jslogo {
+  position: absolute;
+  width: 120px;
+  height: 150px;
+  left: 841px;
+  top: 395px;
+  margin-left: 150px;
+}
+.bootstraplogo {
+  position: absolute;
+  width: 120px;
+  height: 150px;
+  left: 1182px;
+  top: 395px;
+  margin-left: 200px;
+}
+.b {
+  position: absolute;
+  left: 15%;
+  right: 77.53%;
+  top: 50.78%;
+  bottom: 34.31%;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30.8167px;
+  line-height: 47px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.l {
+  position: absolute;
+  left: 7.65%;
+  right: 77.97%;
+  top: 69.26%;
+  bottom: 21.14%;
+  margin-left: 200px;
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20.5444px;
+  line-height: 31px;
+  text-align: center;
+
+  color: #ffffff;
+}

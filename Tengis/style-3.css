@@ -1,0 +1,109 @@
+.footer {
+  display: flex;
+  align-items: center;
+  height: 107px;
+  width: 2100px;
+  position: absolute;
+  background-color: #344b8e;
+}
+.footersocial {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 2000px;
+  height: 35.34px;
+}
+.Facebook {
+  position: absolute;
+  width: 98px;
+  height: 35.34px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  left: 238px;
+}
+.Twitter {
+  position: absolute;
+  width: 98px;
+  height: 35.34px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  left: 438px;
+}
+.Google {
+  position: absolute;
+  width: 98px;
+  height: 35.34px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  left: 638px;
+}
+.LinkdIn {
+  position: absolute;
+  width: 98px;
+  height: 35.34px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  left: 838px;
+}
+.Behance {
+  position: absolute;
+  width: 98px;
+  height: 35.34px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  left: 1038px;
+}
+.Dribbble {
+  position: absolute;
+  width: 98px;
+  height: 35.34px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  left: 1238px;
+}
+.GitHub {
+  position: absolute;
+  width: 98px;
+  height: 35.34px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  left: 1438px;
+}
+.GitHub:hover {
+  color: #30bae7;
+}

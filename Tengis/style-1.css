@@ -1,0 +1,379 @@
+.ehlel {
+  height: 900px;
+  width: 1000px;
+}
+.minii-zurag {
+  position: absolute;
+  width: 652px;
+  height: 711px;
+  left: 326.72px;
+  top: 126px;
+}
+.h3 {
+  cursor: default;
+  position: absolute;
+  width: 213px;
+  height: 73px;
+  left: 1182px;
+  top: 263px;
+  font-size: 40px;
+  font-family: verdana;
+}
+.h2 {
+  cursor: default;
+  position: absolute;
+  width: 630px;
+  height: 320px;
+  left: 1057px;
+  top: 372px;
+  color: #838383;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 157.6%;
+}
+.button-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px 24px;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 176px;
+  height: 71px;
+  left: 1082px;
+  top: 680px;
+  background: #e84949;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.14), 0px 3px 1px rgba(0, 0, 0, 0.12),
+    0px 1px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+.nogoondurs {
+  position: absolute;
+  width: 120.16px;
+  height: 310px;
+  left: 142px;
+  top: 290px;
+}
+
+.nemehdurs {
+  position: absolute;
+  width: 69.95px;
+  height: 69.36px;
+  left: 550.25px;
+  top: 30px;
+}
+.cubedurs {
+  position: absolute;
+  width: 76.84px;
+  height: 74.04px;
+  left: 936.87px;
+  top: 29px;
+}
+.duguidurs {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 42px;
+  height: 40px;
+  left: 220.72px;
+  top: 863px;
+
+  border: none solid #6860e2;
+}
+.bituudugui {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 19px;
+  position: absolute;
+  width: 275px;
+  height: 140px;
+  left: 638.72px;
+  top: 796px;
+}
+.skill {
+  height: 600px;
+  width: 200px;
+}
+.firstword {
+  position: absolute;
+  width: 85px;
+  height: 48px;
+  left: 942.18px;
+  top: 88%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32.5581px;
+  line-height: 48px;
+  cursor: default;
+  color: #f37a7a;
+}
+.secondword {
+  position: absolute;
+  width: 560px;
+  height: 84.68px;
+  left: 471.71px;
+  top: 96%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28.4884px;
+  line-height: 42px;
+  color: #818080;
+  cursor: default;
+}
+.img {
+  position: absolute;
+  width: 415.93px;
+  height: 346.74px;
+  left: 1050px;
+  top: 93%;
+}
+.HTML {
+  position: absolute;
+  width: 93.6px;
+  height: 118.1px;
+  left: 517.29px;
+  top: 109%;
+}
+.CSS {
+  position: absolute;
+  width: 98.49px;
+  height: 117.78px;
+  left: 665.43px;
+  top: 109%;
+}
+.JS {
+  position: absolute;
+  width: 98.49px;
+  height: 117.78px;
+  left: 816.01px;
+  top: 109%;
+}
+.BOOTS {
+  position: absolute;
+  width: 98.49px;
+  height: 120.09px;
+  left: 517.29px;
+  top: 124%;
+}
+.project {
+  height: 700px;
+  width: 200px;
+}
+.Desing {
+  position: absolute;
+  width: 170px;
+  height: 54px;
+  left: 1068px;
+  top: 146%;
+  border: none;
+  background-color: whitesmoke;
+}
+.projectword {
+  position: absolute;
+  width: 130px;
+  height: 26px;
+  left: 1411px;
+  top: 145%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 26px;
+  color: #f37a7a;
+  cursor: default;
+}
+.projectimg-1 {
+  position: absolute;
+  width: 377px;
+  height: 552px;
+  left: 261px;
+  top: 147%;
+  border-radius: 4px;
+}
+.projectimg-2 {
+  position: absolute;
+  width: 370px;
+  height: 452px;
+  left: 768px;
+  top: 158%;
+  border-radius: 4px;
+}
+.projectimg-3 {
+  position: absolute;
+  width: 377px;
+  height: 451px;
+  left: 1268px;
+  top: 168%;
+  border-radius: 4px;
+}
+
+.contactword {
+  position: absolute;
+  width: 226px;
+  height: 58px;
+  left: 836px;
+  top: 218%;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 58px;
+  cursor: default;
+  color: #f37a7a;
+}
+.contactimg {
+  position: absolute;
+  width: 636px;
+  height: 471px;
+  left: 325px;
+  top: 242%;
+}
+.email {
+  box-sizing: border-box;
+  position: absolute;
+  width: 515px;
+  height: 97px;
+  left: 54%;
+  font-size: x-large;
+  top: 242%;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.35);
+  border-radius: 8px;
+}
+.message {
+  box-sizing: border-box;
+  position: absolute;
+  width: 515px;
+  height: 263px;
+  left: 54%;
+  font-size: x-large;
+  top: 258%;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.35);
+  border-radius: 8px;
+  align-items: flex-start;
+}
+.sendbutton {
+  position: absolute;
+  width: 181px;
+  height: 66px;
+  left: 63%;
+  top: 290%;
+  background: #6860e2;
+  border-radius: 4px;
+  border: none;
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 53px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: #fffdfd;
+}
+.footer {
+  position: absolute;
+  width: 74.4%;
+  height: 496px;
+  left: 0px;
+  top: 350%;
+}
+.footerdurs {
+  position: absolute;
+  z-index: 1;
+  width: 135.4%;
+  height: 496px;
+}
+.footerword-1 {
+  position: absolute;
+  width: 382px;
+  height: 54px;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32.7342px;
+  line-height: 54px;
+  z-index: 2;
+  top: 28%;
+  left: 6%;
+  color: #ffffff;
+  cursor: default;
+}
+.footerword-2 {
+  width: 493px;
+  height: 54px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32.7342px;
+  line-height: 54px;
+  position: absolute;
+  z-index: 2;
+  color: #ffffff;
+  top: 28%;
+  left: 92%;
+  font-family: verdana;
+  cursor: default;
+}
+.footerfb {
+  position: absolute;
+  z-index: 2;
+  width: 68.22px;
+  height: 68.22px;
+  top: 58%;
+  left: 6%;
+}
+.footermail {
+  position: absolute;
+  z-index: 2;
+  width: 68.22px;
+  height: 68.22px;
+  top: 58%;
+  left: 15%;
+}
+.footerdiscord {
+  position: absolute;
+  z-index: 2;
+  width: 68.22px;
+  height: 68.22px;
+  top: 58%;
+  left: 24%;
+}
+.footergithub {
+  position: absolute;
+  z-index: 2;
+  width: 68.22px;
+  height: 68.22px;
+  top: 58%;
+  left: 92%;
+}
+.git {
+  position: absolute;
+  z-index: 2;
+  top: 53%;
+  left: 98%;
+  font-family: verdana;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32.7342px;
+  line-height: 54px;
+  cursor: default;
+}
+.git:hover {
+  color: rgb(44, 225, 165);
+  transition: linear;
+}
