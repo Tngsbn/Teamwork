@@ -1,0 +1,329 @@
+.body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+.first {
+    width: 100vw;
+    height: 100vh;
+    background: #E5E5E5;
+    display: flex;
+    flex-direction: row;
+}
+.first-plus {
+    display: flex;
+    flex-direction: column;
+    
+}
+.first-plus-promax {
+    display: flex;
+    flex-direction: column;
+}
+.profile {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 250px;
+    border-radius: 500px;
+}
+.cube {
+    display: flex;
+
+}
+.cubeplus {
+    display: flex;
+}
+.cube1 {
+    display: flex;
+    width: 132px;
+    height: 132px;
+    margin-top: 70px;
+}
+.cube2 {
+    display: flex;  
+    width: 84.93px;
+    height: 84.93px;
+    margin-top: 150px;
+    margin-left: 130px;
+}
+.cube3 {
+    display: flex;
+    width: 84.93px;
+    height: 84.93px;
+    margin-top: 150px;
+    margin-left: 180px;
+}
+.cube4 {
+    display: flex;
+    width: 191px;
+    height: 191px;
+    margin-top: 30px;
+    margin-left: -50px;
+}
+.cube5 {
+    display: flex;
+    width: 191px;
+    height: 191px;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+.cube6 {
+    display: flex;
+    width: 132px;
+    height: 132px;
+    margin-top: 70px;
+    margin-left: 180px;
+}
+.intro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 63px;
+    color: #7d7d7d;
+    margin-left: 114px;
+    margin-top: 90px;
+}
+.name {
+    display: flex;
+}
+.introduction-name {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 63px;
+    line-height: 65px;
+    color: #7d7d7d;
+}
+.intro-text {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7d7d7d;
+    margin-left: 114px;
+    width: 800px;
+    margin-top: 100px;
+}
+.second {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: #E5E5E5;
+}
+.skill {
+    display: flex;
+    justify-content: center;
+}
+.head-word {
+    display: flex;
+    justify-content: center;
+    margin-top: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F37A7A;
+    font-size: 32.5581px;
+    line-height: 48px;
+}
+.skill-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.a {
+    display: flex;
+    flex-direction: column;
+}
+.skill-text {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #818080;
+    justify-content:first baseline;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.skill-pic {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    gap: 40px;
+    margin-left: 300px;
+    margin-top: 70px;
+}
+.html-logo {
+    width: 93.6px;
+    height: 118.1px;
+}
+.css-logo {
+    width: 98.49px;
+    height: 117.78px;
+}
+.java-logo {
+    width: 98.49px;
+    height: 117.78px;
+}
+.skill-img {
+    display: flex;
+    margin-top: 30px;
+    margin-right: 70px;
+}
+.third {
+    display: flex;   
+    background: #E5E5E5;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+}
+.project {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.b {
+    color: #F37A7A;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 5px;
+    margin-top: 100px;
+    width: 100%;
+}
+.project-header {
+    display: flex;
+    justify-content: center;
+}
+.project-img {
+    display: flex;
+}
+.pro-int {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #818080;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.c {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.project {
+    display: flex;
+}
+.project-made-1 {
+    width: 450px;
+    height: 220px;
+    transition: 1s;
+    border: 2px solid rgb(29, 237, 223);
+}
+.project-made-2 {
+    width: 400px;
+    height: 120px;
+    margin-left: 200px;
+    transition: 1s;
+    border: 2px solid greenyellow;
+}
+.pro-img {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+.project-made-1:hover {
+    cursor: pointer;
+    transform: scale(1.4);
+}
+.project-made-2:hover {
+    cursor: pointer;
+    transform: scale(1.4);
+}
+.fourth {
+    display: flex;   
+    background: #E5E5E5;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.cont-father{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+   align-items: center;
+}
+.cont-name{
+    font-weight: 700;
+    font-size: 28.1275px;
+    line-height: 39px;
+    color: #4A6CFA;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.yu{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+.cont-border1{
+    border:1px solid #4A6CFA;
+    border-radius: 21px;
+    height: 40px;
+    width: 187px;
+}
+.cont-offer{
+    width: 411px;
+    height: 137px;
+    color: #4A6CFA;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 21px;
+    border: 1px solid  #4A6CFA;
+
+}
+.cont-button{
+    width: 267.09px;
+height: 43.75px;
+background: #4A6CFA;
+border-radius: 21.877px;
+}
+.cont-button:hover {
+    cursor: pointer;
+}
+.fifth {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .block5-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 95vw;
+    height: 500px;
+    gap: 30px;
+  }
+  .block5-text {
+    color: #4a6cfa;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .block5-button {
+    background-color: #4a6cfa;
+    color: white;
+    border-radius: 28px;
+    border: none;
+    width: 175px;
+    height: 56px;
+  }
+  .block5-copyright {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #4a6cfa;
+    margin-top: 50px;
+  }
+  .block5-button:hover {
+    cursor: pointer;
+  }
